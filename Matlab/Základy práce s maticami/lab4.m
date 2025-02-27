@@ -1,86 +1,86 @@
 %% Peter Petrovčik IKT-6
 
-%% 1.Úloha
+%% Task 1
 clear all;
 close all;
 clc;
-disp('Zadanie 1.');
+disp('Task 1.');
 
 A = [1 2 3 4; 5 6 7 8; 9 10 11 12; 13 14 15 16];
 [S1,S2,S3,S4,S5,S6] = foo(A);
 B = bar(S1,S2,S3,S4,S5,S6);
 
-Vysledok = isequal(B, A');
-Vysledok
+Result = isequal(B, A');
+Result
 
-disp('Matica B:'); 
+disp('Matrix B:'); 
 disp(B);
-disp('Transponovaná matica A:'); 
+disp('Transposed matrix A:'); 
 disp(A');
 
-%% 2.Úloha
+%% Task 2
 clear all;
 close all;
 clc;
-disp('Zadanie 2.');
+disp('Task 2.');
 
 interval = [1,10];
 dimensions = [3,4];
 R = random(interval, dimensions);
 
-disp('Vygenerovaná random matica R:')
+disp('Generated random matrix R:')
 disp(R);
 
-%% 2a.Úloha
+%% Task 2a
 clear all;
 close all;
 clc;
-disp('Zadanie 2a.');
+disp('Task 2a.');
 
 [A_test, E, F] = testRandom();
-Vysledok = isequal(A_test * E, F);
-Vysledok
+Result = isequal(A_test * E, F);
+Result
 
-%% 3.Úloha
+%% Task 3
 clear all;
 close all;
 clc;
-disp('Zadanie 3a, b, c, d.');
+disp('Task 3a, b, c, d.');
 
-% 3a.úloha
+% 3a. task
 [A11,A12,A21,A22] = genA();
 [B11,B21] = genB();
 [C11,C21] = mulPP(A11,A12,A21,A22,B11,B21);
 
-disp('Matica C11:'); 
+disp('Matrix C11:'); 
 disp(C11);
-disp('Matica C21: '); 
+disp('Matrix C21: '); 
 disp(C21);
 
-% 3b.úloha
+% 3b. task
 A = [A11,A12; A21,A22];
 B = [B11; B21];
 
-% 3c.úloha
+% 3c. task
 C = A*B;
 [C11,C21] = mulPP(A11,A12,A21,A22,B11,B21);
 C2 = [C11; C21];
 
-% 3d.úloha
-Vysledok = isequal(C,C2);
-Vysledok
+% 3d. task
+Result = isequal(C,C2);
+Result
 
 
-% Výstupy
-disp('Matica C: ');
+% Outputs
+disp('Matrix C: ');
 disp(C);
-disp('Matica C2');
+disp('Matrix C2');
 disp(C2);
 
-%% FUNKCIE %%
+%% FUNCTIONS %%
 
-%% Funkcie prvá úloha
-%Rozdelenie 
+%% Functions for Task 1
+% Splitting
 function [S1,S2,S3,S4,S5,S6] = foo(A)
     S1 = A(1, 1:3);
     S2 = A(1, 4);
@@ -90,7 +90,7 @@ function [S1,S2,S3,S4,S5,S6] = foo(A)
     S6 = A(1:4, 4);
 end
 
-%Transpozícia
+% Transpose
 function B = bar(S1,S2,S3,S4,S5,S6)
     B = zeros(4);
     B(1, 1:3) = S1;
@@ -101,8 +101,8 @@ function B = bar(S1,S2,S3,S4,S5,S6)
     B(1:4, 4) = S6;
 end
 
-%% Funkcie úloh 2 a 2a
-%Generovanie náhodných čísel
+%% Functions for Tasks 2 and 2a
+% Generating random numbers
 function R = random(interval, dimensions)
     a = interval(1);
     b = interval(2);
@@ -110,7 +110,7 @@ function R = random(interval, dimensions)
     R = floor(randValues * (b-a+1))+a;
 end
 
-%Testovanie random
+% Testing random
 function [A,E,F] = testRandom()
        A = random([1,3], [4,4]);
 
@@ -126,8 +126,8 @@ function [A,E,F] = testRandom()
     E = [b,c,d];
 end
 
-%% Funkcie pre 3.Úlohu a, b, c, d
-%Generovanie matíc A11 až A22
+%% Functions for Task 3a, b, c, d
+% Generating matrices A11 to A22
 function [A11,A12,A21,A22] = genA()
     A11 = ones(3,4);
     A12 = 2*ones(3,2);
@@ -135,13 +135,13 @@ function [A11,A12,A21,A22] = genA()
     A22 = 4*ones(2,2);
 end
 
-%Generovanie matíc B11 a B21
+% Generating matrices B11 and B21
 function [B11,B21] = genB()
     B11 = 5*ones(4,3);
     B21 = 6*ones(2,3);
 end
 
-%Blokové násobenie matíc
+% Block matrix multiplication
 function [C11,C21] = mulPP(A11,A12,A21,A22,B11,B21)
     C11 = A11*B11 + A12*B21;
     C21 = A21*B11 + A22*B21;
