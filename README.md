@@ -36,7 +36,7 @@ Tieto projekty sú výsledkom môjho úsilia počas štúdia. Každý z nich uka
 - **Technológie**: MATLAB
 - **Úloha**: Implementácia polynómov, výpočtu koreňov, grafických funkcií a numerických aproximácií derivácie.
 
-### [Lineárna interpolácia](https://github.com/petrovcik159/Projects/tree/main/Matlab/Line%C3%A1rna%20interpol%C3%A1cia)
+### [Lineárna interpolácia](https://github.com/petrovcik159/Projekty/tree/main/Matlab/Pou%C5%BEitie%20mat%C3%ADc%20v%20%C5%A1tandardoch%20IEEE)
 - **Popis**: Implementácia metódy lineárnej interpolácie bez použitia cyklov v MATLABe.
 - **Technológie**: MATLAB
 - **Úloha**: Výpočet koeficientov priamky a generovanie interpolovaných hodnôt pomocou vektorových operácií.
