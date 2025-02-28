@@ -21,7 +21,7 @@ Tieto projekty sú výsledkom môjho úsilia počas štúdia. Každý z nich uka
 
 ## Projekty v MATLABe
 
-### [Základy práce s maticami a indexácia vektorov a matíc]https://github.com/petrovcik159/Projekty/tree/main/Matlab/Z%C3%A1klady%20pr%C3%A1ce%20s%20maticami%20a%20index%C3%A1cia%20vektorov%20a%20mat%C3%ADc
+### [Základy práce s maticami a indexácia vektorov a matíc](https://github.com/petrovcik159/Projekty/tree/main/Matlab/Z%C3%A1klady%20pr%C3%A1ce%20s%20maticami%20a%20index%C3%A1cia%20vektorov%20a%20mat%C3%ADc)
 - **Popis**: Projekt sa zameriava na základné operácie s maticami v MATLABe vrátane ich transpozície, sčítania, násobenia a indexácie prvkov.
 - **Technológie**: MATLAB
 - **Úloha**: Precvičenie základných maticových operácií, rozdelenie matíc na submatice a extrakcia konkrétnych hodnôt.
