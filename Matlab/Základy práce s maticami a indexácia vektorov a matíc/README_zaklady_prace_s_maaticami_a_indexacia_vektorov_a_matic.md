@@ -14,4 +14,4 @@ Tento projekt sa zaoberá základnými operáciami s maticami v prostredí MATLA
 - Porovnanie výsledkov rôznych spôsobov násobenia matíc
 
 ## Autor
-Projekt bol vypracovaný v rámci štúdia ako súčasť cvičenia zo základov maticového počtu.
+Projekt bol vypracovaný v rámci štúdia ako súčasť cvičenia z digitálnej gramotnosti.
