@@ -1,6 +1,6 @@
-# Projekty od Petrovcika
+# Vitajte
 
-Tento repozitár obsahuje rôzne projekty, ktoré som vytvoril počas svojho štúdia a samostatnej práce v oblasti programovania a analýzy dát. Projekty sú zamerané na rôzne technológie, ako sú **PHP, MATLAB** a **C**. 
+Tento repozitár obsahuje rôzne projekty, ktoré som vytvoril počas svojho štúdia v oblasti programovania a analýzy dát. Projekty sú zamerané na rôzne technológie, ako sú **PHP, MATLAB** a **C**. 
 
 ## 📌 Prečo tieto projekty?
 
