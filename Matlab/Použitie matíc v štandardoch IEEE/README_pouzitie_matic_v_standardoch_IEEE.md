@@ -15,4 +15,4 @@ Projekt sa zameriava na implementáciu operácií s maticami v súlade s modern�
 - Priame kódovanie binárnych vektorov pomocou submatíc matice H
 
 ## Autor
-Projekt bol vypracovaný v rámci štúdia ako súčasť cvičenia z algoritmizácie a práce s maticami v IEEE štandardoch.
+Projekt bol vypracovaný v rámci štúdia ako súčasť cvičenia z digitálnej gramotnosti.
