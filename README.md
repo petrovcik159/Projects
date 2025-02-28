@@ -77,4 +77,4 @@ Tieto projekty sú výsledkom môjho úsilia počas štúdia. Každý z nich uka
 
 ## Záver
 
-Tento repozitár ukazuje rôzne oblasti, na ktorých som pracoval počas štúdia. Každý projekt je príležitosťou na preukázanie schopnosti analyzovať, navrhovať a implementovať riešenia rôznych problémov pomocou vhodných technológii. Všetky tieto projekty sú vytvorené samostatne a ukazujú moju schopnosť riešiť problémy od návrhu až po implementáciu.
+Tento repozitár ukazuje rôzne oblasti, na ktorých som pracoval počas štúdia. Každý projekt je príležitosťou na preukázanie schopnosti analyzovať, navrhovať a implementovať riešenia rôznych problémov pomocou vhodných technológii. Všetky tieto projekty ukazujú moju schopnosť riešiť problémy od návrhu až po implementáciu.
