@@ -4,12 +4,12 @@ Tento repozitár obsahuje rôzne projekty v jazyku C, ktoré boli vypracované v
 
 ## Zoznam projektov
 
-1. **[Analýza matíc]
-2. **[Dynamická práca s maticami]
-3. **[Práca s reťazcami a súbormi]
-4. **[Šifrovanie a analýza textových súborov]
-5. **[Štruktúry v poli]
-6. **[Štruktúry v spájanom zozname]
+1. Analýza matíc
+2. Dynamická práca s maticami
+3. Práca s reťazcami a súbormi
+4. Šifrovanie a analýza textových súborov
+5. Štruktúry v poli
+6. Štruktúry v spájanom zozname
 
 
 ## Požiadavky
