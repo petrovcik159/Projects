@@ -31,7 +31,7 @@ Tieto projekty sú výsledkom môjho úsilia počas štúdia. Každý z nich uka
 - **Technológie**: MATLAB
 - **Úloha**: Implementácia operácií podľa moderných IEEE štandardov, vrátane cyklického posunu a expanzie modelovej matice pre LDPC kódovanie.
 
-### [Polynómy a zápis vzorcov v systéme LaTeX](https://github.com/petrovcik159/Projekty/tree/main/Matlab/Pou%C5%BEitie%20mat%C3%ADc%20v%20%C5%A1tandardoch%20IEEE)
+### [Polynómy a zápis vzorcov v systéme LaTeX](https://github.com/petrovcik159/Projekty/tree/main/Matlab/Polyn%C3%B3my%20a%20z%C3%A1pis%20vzorcov%20v%20syst%C3%A9me%20LaTex)
 - **Popis**: Práca s polynómami v MATLABe a ich vizualizácia vrátane výpočtu derivácií a zápisu vzorcov v LaTeX formáte.
 - **Technológie**: MATLAB
 - **Úloha**: Implementácia polynómov, výpočtu koreňov, grafických funkcií a numerických aproximácií derivácie.
