@@ -11,14 +11,5 @@ Tento repozitár obsahuje rôzne projekty v jazyku C, ktoré boli vypracované v
 5. [Štruktúry v poli](https://github.com/petrovcik159/Projekty/tree/main/C/%C5%A0trukt%C3%BAry%20v%20poli)
 6. [Štruktúry v spájanom zozname](https://github.com/petrovcik159/Projekty/tree/main/C/%C5%A0trukt%C3%BAry%20v%20sp%C3%A1janom%20zozname)
 
-
-## Požiadavky
-- GCC alebo iný C kompilátor
-- Operačný systém: Linux / Windows / macOS
-- Základné znalosti jazyka C
-
-## Spustenie
-Každý projekt obsahuje vlastný súbor `README.md` s podrobnými inštrukciami na zostavenie a spustenie programu.
-
 ## Autor
 Tento repozitár bol vypracovaný ako súčasť štúdia algoritmizácie a programovania.
