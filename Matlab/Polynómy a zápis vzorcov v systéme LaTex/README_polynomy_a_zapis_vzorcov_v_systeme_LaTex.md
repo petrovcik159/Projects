@@ -15,4 +15,4 @@ Tento projekt sa venuje prácam s polynómami v MATLABe, ich numerickým operác
 - Použitie MATLAB Live Skriptu na formátovanie LaTeX vzorcov
 
 ## Autor
-Projekt bol vypracovaný v rámci štúdia ako súčasť cvičenia z polynómov a ich vizualizácie v MATLABe.
+Projekt bol vypracovaný v rámci štúdia ako súčasť cvičenia z digitálnej gramotnosti.
