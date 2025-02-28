@@ -4,12 +4,12 @@ Tento repozitár obsahuje rôzne projekty v jazyku C, ktoré boli vypracované v
 
 ## Zoznam projektov
 
-1. **[Analýza matíc]([README_analyza_matic.md](https://github.com/petrovcik159/Projects/blob/main/C/Anal%C3%BDza%20mat%C3%ADc/README_analyza_matic.md))** - Práca s pevne definovanou 10x10 maticou, načítanie, analýza a výpis matice.
-2. **[Dynamická práca s maticami](README_dynamicka_matica.md)** - Dynamická alokácia matíc ľubovoľnej veľkosti.
-3. **[Práca s reťazcami a súbormi](README_retazce_subory.md)** - Manipulácia s reťazcami a textovými súbormi.
-4. **[Šifrovanie a analýza textových súborov](README_sifra_subory.md)** - Implementácia substitučného šifrovania.
-5. **[Štruktúry v poli](README_studenti_pole.md)** - Správa zoznamu študentov pomocou dynamického poľa.
-6. **[Štruktúry v spájanom zozname](README_studenti_spajany_zoznam.md)** - Implementácia dynamického spájaného zoznamu na evidenciu študentov.
+1. **[Analýza matíc](https://github.com/petrovcik159/Projects/blob/main/analyza_matic/README.md)**
+2. **[Dynamická práca s maticami](https://github.com/tvoj-username/tvoj-repo/blob/main/dynamicka_matica/README.md)**
+3. **[Práca s reťazcami a súbormi](https://github.com/tvoj-username/tvoj-repo/blob/main/retazce_subory/README.md)**
+4. **[Šifrovanie a analýza textových súborov](https://github.com/tvoj-username/tvoj-repo/blob/main/sifra_subory/README.md)**
+5. **[Štruktúry v poli](https://github.com/tvoj-username/tvoj-repo/blob/main/studenti_pole/README.md)**
+6. **[Štruktúry v spájanom zozname](https://github.com/tvoj-username/tvoj-repo/blob/main/studenti_spajany_zoznam/README.md)**
 
 
 ## Požiadavky
