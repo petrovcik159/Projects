@@ -1,6 +1,6 @@
 # Projekty v jazyku C
 
-Tento repozitár obsahuje rôzne projekty v jazyku C, ktoré boli vypracované v rámci štúdia. Projekty sa zameriavajú na rôzne oblasti programovania, vrátane práce s maticami, reťazcami, súbormi a dátovými štruktúrami.
+Tento repozitár obsahuje rôzne projekty v jazyku C, ktoré boli vypracované v rámci štúdia. Projekty sa zameriavajú na rôzne oblasti programovania, vrátane práce s maticami, reťazcami, súbormi, poliami a dátovými štruktúrami.
 
 ## Zoznam projektov
 
