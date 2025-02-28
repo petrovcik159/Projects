@@ -4,7 +4,7 @@ Tento repozitár obsahuje rôzne projekty v jazyku C, ktoré boli vypracované v
 
 ## Zoznam projektov
 
-1. **[Analýza matíc](./analyza_matic/README_analyza_matic.md)** - Práca s pevne definovanou 10x10 maticou, načítanie, analýza a výpis matice.
+1. **[Analýza matíc](./analyza_matic/README.md)** - Práca s pevne definovanou 10x10 maticou, načítanie, analýza a výpis matice.
 2. **[Dynamická práca s maticami](./dynamicka_matica/README.md)** - Dynamická alokácia matíc ľubovoľnej veľkosti.
 3. **[Práca s reťazcami a súbormi](./retazce_subory/README.md)** - Manipulácia s reťazcami a textovými súbormi.
 4. **[Šifrovanie a analýza textových súborov](./sifra_subory/README.md)** - Implementácia substitučného šifrovania.
