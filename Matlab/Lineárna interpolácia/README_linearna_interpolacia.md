@@ -37,4 +37,4 @@ Na dokumentáciu matematických vzorcov sa využíva formátovanie v **LaTeX**.
   - **Analýza reziduí** a ich histogram.  
 
 ## Autor
-Projekt bol vypracovaný v rámci štúdia ako súčasť cvičenia z lineárnej interpolácie a regresie.
+Projekt bol vypracovaný v rámci štúdia ako súčasť cvičenia z digitálnej gramotnosti.
