@@ -4,7 +4,7 @@ Tento repozitár obsahuje rôzne projekty v jazyku C, ktoré boli vypracované v
 
 ## Zoznam projektov
 
-1. **[Analýza matíc](https://github.com/petrovcik159/Projects/blob/main/C/Analýza%20Matíc/README_analyza_matic.md)**
+1. **[Analýza matíc](C/Analyza_Matic/README_analyza_matic.md)**
 2. **[Dynamická práca s maticami](https://github.com/tvoj-username/tvoj-repo/blob/main/dynamicka_matica/README.md)**
 3. **[Práca s reťazcami a súbormi](https://github.com/tvoj-username/tvoj-repo/blob/main/retazce_subory/README.md)**
 4. **[Šifrovanie a analýza textových súborov](https://github.com/tvoj-username/tvoj-repo/blob/main/sifra_subory/README.md)**
