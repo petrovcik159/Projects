@@ -9,7 +9,8 @@ Tieto projekty sú výsledkom môjho úsilia počas štúdia. Každý z nich uka
 ---
 ## Vlastný projekt
 
-### [Program na export položiek z webu](https://github.com/petrovcik159/Projects/tree/main/Matlab/)
+### [Program na export položiek z webu](https://github.com/petrovcik159/Projects/tree/main/Matlab/Product%20Import%20Program/)
+
 
 - **Popis**: Tento projekt umožňuje získavanie produktových položiek z webovej stránky autoservisu a ich export do Excel súboru. Používateľ načíta potrebné údaje do súboru `inner.html`, spustí `parser.bat`, ktorý spracuje dáta a vytvorí Excel súbor (`xlsx`) s produktovými údajmi.
 - **Technológie**: PHP, Batch script, HTML, JavaScript (jQuery), SimpleXLSXGen
