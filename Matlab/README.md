@@ -4,7 +4,7 @@ Tento repozitár obsahuje rôzne projekty v programovacom prostredí MATLAB, kto
 
 ## Zoznam projektov
 
-1. [Lineárna interpolácia](https://github.com/petrovcik159/Projekty/tree/main/C/Anal%C3%BDza%20mat%C3%ADc)
+1. [Lineárna interpolácia](https://github.com/petrovcik159/Projekty/tree/main/Matlab/Line%C3%A1rna%20interpol%C3%A1cia)
 2. [Polynómy a zápis vzorcov v systéme LaTex](https://github.com/petrovcik159/Projekty/tree/main/C/Dynamick%C3%A1%20pr%C3%A1ca%20s%20maticami)
 3. [Použitie matíc v štandardoch IEEE](https://github.com/petrovcik159/Projekty/tree/main/C/Pr%C3%A1ca%20s%20re%C5%A5azcami%20a%20s%C3%BAbormi)
 4. [Základy práce s maticami a indexácia vektorov a matíc](https://github.com/petrovcik159/Projekty/tree/main/C/%C5%A0ifrovanie%20a%20anal%C3%BDza%20textov%C3%BDch%20s%C3%BAborov)
